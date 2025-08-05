@@ -1,4 +1,13 @@
-# Subtitle Translator (.vtt and .srt) to Another Language
+<h1 style="text-align: center;">Subtitle Translator (.vtt and .srt) to Another Language</h1>
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 60%;"
+    src="https://mikethewolf83.github.io/assets/img/subtr.jpg" 
+    alt="Subtitles Translator to Another Language">
+</img>
 
 This script translates `.vtt` or `.srt` subtitle files from a source language to a target language, preserving all timestamp formatting. It uses the `deep-translator` library to translate line by line.
 
